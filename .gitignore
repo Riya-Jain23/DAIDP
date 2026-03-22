@@ -1,0 +1,11 @@
+# React Native / Android
+node_modules/
+android/.gradle/
+android/build/
+android/app/build/
+ios/Pods/
+
+# Misc
+*.log
+*.apk
+*.aar
